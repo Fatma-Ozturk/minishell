@@ -1,2 +1,2 @@
 # minishell
-my own little bash
+MY OWN LITTLE BASH
